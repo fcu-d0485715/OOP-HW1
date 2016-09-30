@@ -4,7 +4,7 @@ public class Hello {
 
 	public static void main(String[] args) {
 				
-				System.out.println("HelloWorld OOP");
+				System.out.println("Hello OOP");
 		// TODO Auto-generated method stub
 
 	}
